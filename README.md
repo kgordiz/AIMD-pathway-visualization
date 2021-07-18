@@ -1,1 +1,1 @@
-# AIMD-pawthay-visualization
+# AIMD-pathway-visualization
